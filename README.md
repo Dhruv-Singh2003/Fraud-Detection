@@ -42,6 +42,3 @@ Since the dataset is highly imbalanced, accuracy alone is not reliable. Instead,
 
 ---
 
-
-pip install -r requirements.txt
-jupyter notebook
